@@ -1,0 +1,15 @@
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\bin\Release\net6.0\BirthdayCalculator.exe
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\bin\Release\net6.0\BirthdayCalculator.deps.json
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\bin\Release\net6.0\BirthdayCalculator.runtimeconfig.json
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\bin\Release\net6.0\BirthdayCalculator.dll
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\bin\Release\net6.0\BirthdayCalculator.pdb
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\BirthdayCalculator.csproj.AssemblyReference.cache
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\BirthdayCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\BirthdayCalculator.AssemblyInfoInputs.cache
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\BirthdayCalculator.AssemblyInfo.cs
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\BirthdayCalculator.csproj.CoreCompileInputs.cache
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\BirthdayCalculator.dll
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\refint\BirthdayCalculator.dll
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\BirthdayCalculator.pdb
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\BirthdayCalculator.genruntimeconfig.cache
+D:\JavaScript\StepikC#\FirstProject\BirthdayCalculator\BirthdayCalculator\obj\Release\net6.0\ref\BirthdayCalculator.dll

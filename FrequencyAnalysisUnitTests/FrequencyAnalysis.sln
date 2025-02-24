@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyAnalysis", "FrequencyAnalysis\FrequencyAnalysis.csproj", "{D80F430A-427B-4BFA-ABC3-2F07501EBE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyAnalysisUnitTests", "FrequencyAnalysisUnitTests\FrequencyAnalysisUnitTests.csproj", "{8C399684-E2F3-49BB-9D15-845A76385AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80F430A-427B-4BFA-ABC3-2F07501EBE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80F430A-427B-4BFA-ABC3-2F07501EBE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80F430A-427B-4BFA-ABC3-2F07501EBE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80F430A-427B-4BFA-ABC3-2F07501EBE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C399684-E2F3-49BB-9D15-845A76385AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C399684-E2F3-49BB-9D15-845A76385AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C399684-E2F3-49BB-9D15-845A76385AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C399684-E2F3-49BB-9D15-845A76385AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22176796-5E88-40A9-83FE-002BA67F29B9}
+	EndGlobalSection
+EndGlobal

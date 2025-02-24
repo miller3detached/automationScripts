@@ -1,0 +1,7 @@
+appium-python-client
+opencv-python-headless
+pytesseract
+pytest
+pillow
+numpy
+

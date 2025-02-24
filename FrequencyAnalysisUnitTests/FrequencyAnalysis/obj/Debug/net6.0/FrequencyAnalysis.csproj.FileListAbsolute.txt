@@ -1,0 +1,15 @@
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.exe
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.deps.json
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.runtimeconfig.json
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.dll
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\bin\Debug\net6.0\FrequencyAnalysis.pdb
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.csproj.AssemblyReference.cache
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.AssemblyInfoInputs.cache
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.AssemblyInfo.cs
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.csproj.CoreCompileInputs.cache
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.dll
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\refint\FrequencyAnalysis.dll
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.pdb
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\FrequencyAnalysis.genruntimeconfig.cache
+D:\JavaScript\StepikC#\FrequencyAnalysis\FrequencyAnalysis\obj\Debug\net6.0\ref\FrequencyAnalysis.dll

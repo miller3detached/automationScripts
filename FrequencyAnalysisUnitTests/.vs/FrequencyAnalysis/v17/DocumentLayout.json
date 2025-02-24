@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\git\\StepikC#\\FrequencyAnalysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C399684-E2F3-49BB-9D15-845A76385AFE}|FrequencyAnalysisUnitTests\\FrequencyAnalysisUnitTests.csproj|f:\\git\\stepikc#\\frequencyanalysis\\frequencyanalysisunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C399684-E2F3-49BB-9D15-845A76385AFE}|FrequencyAnalysisUnitTests\\FrequencyAnalysisUnitTests.csproj|solutionrelative:frequencyanalysisunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80F430A-427B-4BFA-ABC3-2F07501EBE4A}|FrequencyAnalysis\\FrequencyAnalysis.csproj|f:\\git\\stepikc#\\frequencyanalysis\\frequencyanalysis\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80F430A-427B-4BFA-ABC3-2F07501EBE4A}|FrequencyAnalysis\\FrequencyAnalysis.csproj|solutionrelative:frequencyanalysis\\arrayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80F430A-427B-4BFA-ABC3-2F07501EBE4A}|FrequencyAnalysis\\FrequencyAnalysis.csproj|f:\\git\\stepikc#\\frequencyanalysis\\frequencyanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80F430A-427B-4BFA-ABC3-2F07501EBE4A}|FrequencyAnalysis\\FrequencyAnalysis.csproj|solutionrelative:frequencyanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\git\\StepikC#\\FrequencyAnalysis\\FrequencyAnalysisUnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FrequencyAnalysisUnitTests\\UnitTest1.cs",
+              "ToolTip": "F:\\git\\StepikC#\\FrequencyAnalysis\\FrequencyAnalysisUnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "FrequencyAnalysisUnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:52:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayHelper.cs",
+              "DocumentMoniker": "F:\\git\\StepikC#\\FrequencyAnalysis\\FrequencyAnalysis\\ArrayHelper.cs",
+              "RelativeDocumentMoniker": "FrequencyAnalysis\\ArrayHelper.cs",
+              "ToolTip": "F:\\git\\StepikC#\\FrequencyAnalysis\\FrequencyAnalysis\\ArrayHelper.cs",
+              "RelativeToolTip": "FrequencyAnalysis\\ArrayHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:52:05.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\git\\StepikC#\\FrequencyAnalysis\\FrequencyAnalysis\\Program.cs",
+              "RelativeDocumentMoniker": "FrequencyAnalysis\\Program.cs",
+              "ToolTip": "F:\\git\\StepikC#\\FrequencyAnalysis\\FrequencyAnalysis\\Program.cs",
+              "RelativeToolTip": "FrequencyAnalysis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:52:05.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
